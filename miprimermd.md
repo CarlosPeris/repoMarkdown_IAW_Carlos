@@ -16,7 +16,7 @@ Este párrafo tiene que tener palabras en **negrita**, *cursiva* y en `código`
 
 [README](README.md)
 
-![Paises Bajos](PaisesBajos.jpeg)
+![Paises Bajos](Paisesbajos.jpeg)
 
 |Curso|Asignatura|
 |:--:|:--:|
