@@ -12,7 +12,7 @@ Este párrafo tiene que tener palabras en **negrita**, *cursiva* y en `código`
 - Baloncesto 
 - Natación
 
-[Mi blog]https://wordpress.com/home/carlosnetcon.wordpress.com
+[Mi blog] https://wordpress.com/home/carlosnetcon.wordpress.com
 
 [README](README.md)
 
